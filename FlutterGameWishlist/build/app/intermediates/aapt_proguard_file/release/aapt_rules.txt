@@ -1,3 +1,0 @@
--keep class android.app.Application { <init>(); }
--keep class androidx.core.app.CoreComponentFactory { <init>(); }
--keep class flutter.game_wishlist.flutter_game_wishlist.MainActivity { <init>(); }
