@@ -1,0 +1,4 @@
+#Mon Dec 12 01:21:56 EET 2022
+base.0=E\:\\Masterat\\An2\\Sem1\\Elemente M-Business\\FlutterGameWishlist\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
